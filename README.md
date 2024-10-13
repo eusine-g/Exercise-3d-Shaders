@@ -7,19 +7,19 @@ Description
 A classic brick breaker type game created by Ethan Goldblatt
 
 ## Implementation
-Changing Colors
-Animated Elements
-Squeeze and stretch
-Animated Elements once hit
-Screen shake
-Added my own created music
-Animated Brick appearance
-Particles
-Comet Trail
-Eyes
-Eyes follow action
-Background with Shaders
-Sound effects
+Changing Colors,
+Animated Elements,
+Squeeze and stretch,
+Animated Elements once hit,
+Screen shake,
+Added my own created music,
+Animated Brick appearance,
+Particles,
+Comet Trail,
+Eyes,
+Eyes follow action,
+Background with Shaders,
+Sound effects,
 
 ## References
 
