@@ -1,26 +1,31 @@
-# Exercise-03d-Shaders
+# Project03-JuicyBreakout
 
-Exercise for MSCH-C220
+# Project Name
+Brick Breaker Game 10/12/2024
 
-The final step adding "juicy" features to a simple brick-breaker game.
-
+Description
+A classic brick breaker type game created by Ethan Goldblatt
 
 ## Implementation
-
-Built using Godot 2022.3.45f
-
+Changing Colors
+Animated Elements
+Squeeze and stretch
+Animated Elements once hit
+Screen shake
+Added my own created music
+Animated Brick appearance
+Particles
+Comet Trail
+Eyes
+Eyes follow action
+Background with Shaders
+Sound effects
 
 ## References
- * [Juice it or lose it — a talk by Martin Jonasson & Petri Purho](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
- * [Puzzle Pack 2, provided by kenney.nl](https://kenney.nl/assets/puzzle-pack-2)
- * [Background Elements Redux, provided by kenney.nl](https://kenney.nl/assets/background-elements-redux)
- * [Open Color open source color scheme](https://yeun.github.io/open-color/)
- * [League Gothic Typeface](https://www.theleagueofmoveabletype.com/league-gothic)
- * [Orbitron Typeface](https://www.theleagueofmoveabletype.com/orbitron)
 
 
 ## Future Development
+None planned
 
-Power-ups, etc.
-
-## Created by Ethan Goldblatt
+## Created by
+Ethan Goldblatt
